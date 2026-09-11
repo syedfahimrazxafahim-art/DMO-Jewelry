@@ -1,0 +1,6 @@
+{
+  "name": "DMO Jewelry",
+  "description": "Luxury jewelry showroom in Houston, Texas. Buying and selling gold, diamonds, silver, platinum, and luxury watches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
